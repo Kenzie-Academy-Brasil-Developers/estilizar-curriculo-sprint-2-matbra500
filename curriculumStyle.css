@@ -11,6 +11,9 @@ ul, ol{
 .titulo{
     margin-left: 200px;
     width: 15%;
+    font-family: 'Rokkitt', sans-serif;
+    font-size: 22px;
+    font-weight: 900;
     
 }
 
@@ -18,6 +21,9 @@ ul, ol{
     float: right;
     width: 20%;
     margin-right: 100px;
+    color: #181818;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
     
     
 }
@@ -38,6 +44,7 @@ ul, ol{
     height: 140px;
     float: right;
     margin-right: 15%;
+    margin-bottom: 50px;
     font-size: large;
 }
 
@@ -45,7 +52,9 @@ ul, ol{
     margin-left: 20%;
     float: left;
     font-size: x-large;
-    
+    color: yellow;
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
    
 }
 
@@ -55,7 +64,7 @@ ul, ol{
 }
 
 hr{
-    border: 1px solid lightgray;
+    border: 1px solid #dedede;
     margin-top: 50px;
     width: 75%;
 }
@@ -64,7 +73,9 @@ hr{
     margin-left: 11.5%;
     float: left;
     font-size: x-large;
-    
+    color: yellow;
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
    
 }
 
@@ -83,6 +94,9 @@ hr{
     margin-left: 20%;
     float: left;
     font-size: x-large;
+    color: yellow;
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
     
    
 }
@@ -93,10 +107,36 @@ hr{
     margin-top: 10px;
     
     
+    
 }
 
 .formação{
     margin-left: 22%;
     float: left;
     font-size: x-large;
+    color: yellow;
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
+}
+
+.gray{
+    color: slategray;
+    font-family: 'Rokkitt', sans-serif;
+    font-weight: 500;
+    font-size: larger;
+}
+
+p{
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+}
+
+.fontLato{
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+}
+
+h5{
+    font-family: 'Rokkitt', sans-serif;
+    font-style: italic;
 }
