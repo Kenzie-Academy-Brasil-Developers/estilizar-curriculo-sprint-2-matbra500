@@ -34,7 +34,7 @@ ul, ol{
 }
 
 #line{
-    border: 2px solid yellow;
+    border: 2px solid orange;
     margin-top: 50px;
     width: 80%;
 }
@@ -52,7 +52,7 @@ ul, ol{
     margin-left: 20%;
     float: left;
     font-size: x-large;
-    color: yellow;
+    color: orange;
     font-family: 'Lato', sans-serif;
     font-style: italic;
    
@@ -73,7 +73,7 @@ hr{
     margin-left: 11.5%;
     float: left;
     font-size: x-large;
-    color: yellow;
+    color: orange;
     font-family: 'Lato', sans-serif;
     font-style: italic;
    
@@ -94,7 +94,7 @@ hr{
     margin-left: 20%;
     float: left;
     font-size: x-large;
-    color: yellow;
+    color: orange;
     font-family: 'Lato', sans-serif;
     font-style: italic;
     
@@ -114,7 +114,7 @@ hr{
     margin-left: 22%;
     float: left;
     font-size: x-large;
-    color: yellow;
+    color: orange;
     font-family: 'Lato', sans-serif;
     font-style: italic;
 }
